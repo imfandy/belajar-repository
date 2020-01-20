@@ -2,3 +2,4 @@ Belajar
   -belajar coding bagi pemula
   -belajar apa saja
   -yang penting belajar
+  -belajar edit repository

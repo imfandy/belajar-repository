@@ -1,5 +1,6 @@
 Belajar
-  -belajar coding bagi pemula
-
-  -yang penting belajar
-  -belajar edit repository
+  -Belajar HTML
+  -Belajar CSS
+  -Belajar JavaScript
+  -Belajar Phyton
+  -Belajar Node.JS
